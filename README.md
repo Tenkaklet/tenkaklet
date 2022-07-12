@@ -19,7 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tenkaklet&show_icons=true" alt="tenkaklet" /></p>
 
 <p align="center">
-<a href="https://twitter.com/tenkaklet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tenkaklet" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/maxcarlquist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maxcarlquist" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/tenkaklet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="tenkaklet" height="30" width="30" /></a>
 </p>
