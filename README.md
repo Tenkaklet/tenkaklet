@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tenkaklet" alt="tenkaklet" /> </p>
 
-- I'm currently learning **Ruby on Rails**
+- I'm currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://tenkaklet.com](https://tenkaklet.com)
 
