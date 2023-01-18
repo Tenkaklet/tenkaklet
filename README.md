@@ -5,9 +5,9 @@
 
 - I'm currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [https://tenkaklet.com](https://tenkaklet.com)
+- 👨‍💻 All of my projects are available at [WEBSITE](https://tenkaklet-production.up.railway.app/)
 
-- 📝 I regularly write articles on [https://tenkaklet.com](https://tenkaklet.com)
+- 📝 I regularly write articles on [WEBSITE](https://tenkaklet-production.up.railway.app/)
 
 - 💬 Ask me about **Remote teaching // Teaching in RL // Frontend Work**
 
