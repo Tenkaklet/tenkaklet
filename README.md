@@ -4,7 +4,7 @@
 
 ⤷ Because we live in such a digital age of fast speed internet and expecting quick home deliveries, we forget to realize that it is people like you who can create the most of remarkable things.
 
- <a aligh="left" href="https://https://tenkaklet-production.up.railway.app/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/maxcarlquist" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
+ <a aligh="left" href="https://tenkaklet-production.up.railway.app/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/maxcarlquist" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
 ⚐ Based in Helsingborg, Sweden
 
