@@ -1,5 +1,8 @@
 <p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=tenkaklet" alt="tenkaklet" /> </p>
+ <img src="https://avatars.githubusercontent.com/u/13237439?v=4" alt="tenkaklet" /> 
+ 
+ </p>
+ 
 # Max Carlquist
 ### I make my self sound important, but I'll let the coding do the talking.
 
